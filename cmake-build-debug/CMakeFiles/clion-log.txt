@@ -1,0 +1,4 @@
+C:\Users\Endrit\AppData\Local\JetBrains\CLion2021.3\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/Endrit/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/ninja/cygwin/ninja.exe -G Ninja "/cygdrive/d/OneDrive - UKIM, FINKI/Second Semester/Object Oriented Programming/C++Codes"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/OneDrive - UKIM, FINKI/Second Semester/Object Oriented Programming/C++Codes/cmake-build-debug

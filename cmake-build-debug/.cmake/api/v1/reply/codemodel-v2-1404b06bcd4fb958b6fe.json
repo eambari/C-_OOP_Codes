@@ -1,0 +1,366 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "untitled",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task1-Debug-6d04e9a939bca88094f1.json",
+					"name" : "ExercisesForPartialExam_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task10-Debug-e73509774c957f6f3cf7.json",
+					"name" : "ExercisesForPartialExam_Task10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task11-Debug-7a23ca30b992b3d71c5a.json",
+					"name" : "ExercisesForPartialExam_Task11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task12-Debug-237c8d7e6e4c5ee30146.json",
+					"name" : "ExercisesForPartialExam_Task12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task19-Debug-6763565018064d7ed9ce.json",
+					"name" : "ExercisesForPartialExam_Task19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task2-Debug-b1e433ba4a15bdb16014.json",
+					"name" : "ExercisesForPartialExam_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task22-Debug-ff15cb32fc307d94a4b6.json",
+					"name" : "ExercisesForPartialExam_Task22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task25-Debug-1735b6d20421fc400dc4.json",
+					"name" : "ExercisesForPartialExam_Task25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task3-Debug-501124284ea32632970e.json",
+					"name" : "ExercisesForPartialExam_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task4-Debug-c0fe6e46db9e858a4b4d.json",
+					"name" : "ExercisesForPartialExam_Task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task5-Debug-e948f047b82f96666ac8.json",
+					"name" : "ExercisesForPartialExam_Task5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task6-Debug-301324c20dbcf8013ace.json",
+					"name" : "ExercisesForPartialExam_Task6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExercisesForPartialExam_Task7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExercisesForPartialExam_Task7-Debug-a77e9bdf55278c4d745e.json",
+					"name" : "ExercisesForPartialExam_Task7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstPartialExam_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstPartialExam_Task2-Debug-3f8180e142b83092a96f.json",
+					"name" : "FirstPartialExam_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2_Task1-Debug-eb2585d67f3d6e4676d9.json",
+					"name" : "Lab2_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2_Task2-Debug-b203c2671782c6837401.json",
+					"name" : "Lab2_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab2_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab2_Task3-Debug-c11e06dda3485722547e.json",
+					"name" : "Lab2_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_Task1-Debug-d62dd0be27a70dc1c9f7.json",
+					"name" : "Lab3_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_Task2-Debug-b10b349b2786d649d1ec.json",
+					"name" : "Lab3_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_Task3-Debug-89516d32164f9c2f07dd.json",
+					"name" : "Lab3_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_Task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_Task4-Debug-0f8384d73d264d9a8dde.json",
+					"name" : "Lab3_Task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab4_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab4_Task1-Debug-40bebd64ca87e363157c.json",
+					"name" : "Lab4_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab4_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab4_Task2-Debug-f835beb3dce81845890e.json",
+					"name" : "Lab4_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_Task1-Debug-7507385b7c76212ba88e.json",
+					"name" : "Lab5_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_Task2-Debug-70c5192eb5b6e5fab777.json",
+					"name" : "Lab5_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_Task3-Debug-23526a363500d452de78.json",
+					"name" : "Lab5_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab6_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab6_Task1-Debug-73cf3deb71b220e8865c.json",
+					"name" : "Lab6_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab6_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab6_Task2-Debug-8b83b12a4d7ceb7700be.json",
+					"name" : "Lab6_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab7_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab7_Task1-Debug-b852bd6ea8fbeae1d203.json",
+					"name" : "Lab7_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab7_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab7_Task2-Debug-3d44632cd6152239e41b.json",
+					"name" : "Lab7_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab7_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab7_Task3-Debug-8cb4f017a26fcfafddfb.json",
+					"name" : "Lab7_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab8_Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab8_Task1-Debug-f8f64228e644fcab54bf.json",
+					"name" : "Lab8_Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab8_Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab8_Task2-Debug-d24b17582ea74639ba85.json",
+					"name" : "Lab8_Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab8_Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab8_Task3-Debug-e6d73ea3711f52857330.json",
+					"name" : "Lab8_Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "untitled::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled-Debug-da369d4c5d9975406bfb.json",
+					"name" : "untitled",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/d/OneDrive - UKIM, FINKI/Second Semester/Object Oriented Programming/C++Codes/cmake-build-debug",
+		"source" : "/cygdrive/d/OneDrive - UKIM, FINKI/Second Semester/Object Oriented Programming/C++Codes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
